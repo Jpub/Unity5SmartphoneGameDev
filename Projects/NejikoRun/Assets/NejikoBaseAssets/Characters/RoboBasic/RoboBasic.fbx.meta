@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 0852395ad5cb62e43a1a11f8b4f6eb2c
+timeCreated: 1424694109
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_arm_L_1
+    100002: B_arm_L_2
+    100004: B_arm_L_end
+    100006: B_arm_R_1
+    100008: B_arm_R_2
+    100010: B_arm_R_end
+    100012: B_head
+    100014: B_head_end
+    100016: B_leg_L_1
+    100018: B_leg_L_2
+    100020: B_leg_L_end
+    100022: B_leg_R_1
+    100024: B_leg_R_2
+    100026: B_leg_R_end
+    100028: B_pelvis
+    100030: B_spine
+    100032: Robo_000
+    100034: //RootNode
+    100036: Root
+    400000: B_arm_L_1
+    400002: B_arm_L_2
+    400004: B_arm_L_end
+    400006: B_arm_R_1
+    400008: B_arm_R_2
+    400010: B_arm_R_end
+    400012: B_head
+    400014: B_head_end
+    400016: B_leg_L_1
+    400018: B_leg_L_2
+    400020: B_leg_L_end
+    400022: B_leg_R_1
+    400024: B_leg_R_2
+    400026: B_leg_R_end
+    400028: B_pelvis
+    400030: B_spine
+    400032: Robo_000
+    400034: //RootNode
+    400036: Root
+    4300000: Robo_000
+    7400000: idle
+    7400002: walk
+    9500000: //RootNode
+    13700000: Robo_000
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robo_000
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/B_pelvis
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1/B_leg_L_2
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1/B_leg_L_2/B_leg_L_end
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1/B_leg_R_2
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1/B_leg_R_2/B_leg_R_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1/B_arm_L_2
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1/B_arm_L_2/B_arm_L_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1/B_arm_R_2
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1/B_arm_R_2/B_arm_R_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_head
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_head/B_head_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Robo_000
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/B_pelvis
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1/B_leg_L_2
+        weight: 1
+      - path: Root/B_pelvis/B_leg_L_1/B_leg_L_2/B_leg_L_end
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1/B_leg_R_2
+        weight: 1
+      - path: Root/B_pelvis/B_leg_R_1/B_leg_R_2/B_leg_R_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1/B_arm_L_2
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_L_1/B_arm_L_2/B_arm_L_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1/B_arm_R_2
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_arm_R_1/B_arm_R_2/B_arm_R_end
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_head
+        weight: 1
+      - path: Root/B_pelvis/B_spine/B_head/B_head_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

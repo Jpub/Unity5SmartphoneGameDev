@@ -1,0 +1,17 @@
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/obj/Debug/Assembly-CSharp.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/UnityEngine.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/UnityEditor.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Mono.Cecil.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Unity.DataContract.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/unityman/Desktop/Unity5_sample_5.3.4_kr/Projects/FlappySeal/Temp/bin/Debug/Mono.Cecil.Mdb.dll
